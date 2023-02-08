@@ -1,0 +1,20 @@
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\bin\Debug\Constructores.exe.config
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\bin\Debug\Constructores.exe
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\bin\Debug\Constructores.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\obj\Debug\Constructores.Form1.resources
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\obj\Debug\Constructores.Properties.Resources.resources
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\obj\Debug\Constructores.csproj.GenerateResource.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\obj\Debug\Constructores.exe
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\obj\Debug\Constructores.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\obj\Debug\Constructores.csprojAssemblyReference.cache
+C:\Users\Edu\Desktop\Constructores\Constructores\bin\Debug\Constructores.exe.config
+C:\Users\Edu\Desktop\Constructores\Constructores\bin\Debug\Constructores.exe
+C:\Users\Edu\Desktop\Constructores\Constructores\bin\Debug\Constructores.pdb
+C:\Users\Edu\Desktop\Constructores\Constructores\obj\Debug\Constructores.csprojAssemblyReference.cache
+C:\Users\Edu\Desktop\Constructores\Constructores\obj\Debug\Constructores.Form1.resources
+C:\Users\Edu\Desktop\Constructores\Constructores\obj\Debug\Constructores.Properties.Resources.resources
+C:\Users\Edu\Desktop\Constructores\Constructores\obj\Debug\Constructores.csproj.GenerateResource.cache
+C:\Users\Edu\Desktop\Constructores\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Desktop\Constructores\Constructores\obj\Debug\Constructores.exe
+C:\Users\Edu\Desktop\Constructores\Constructores\obj\Debug\Constructores.pdb

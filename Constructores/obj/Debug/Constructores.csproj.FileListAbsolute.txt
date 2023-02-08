@@ -1,0 +1,64 @@
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\bin\Debug\Constructores.exe.config
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\bin\Debug\Constructores.exe
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\bin\Debug\Constructores.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\obj\Debug\Constructores.Form1.resources
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\obj\Debug\Constructores.Properties.Resources.resources
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\obj\Debug\Constructores.csproj.GenerateResource.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\obj\Debug\Constructores.exe
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\obj\Debug\Constructores.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\Constructores\Constructores\obj\Debug\Constructores.csprojAssemblyReference.cache
+C:\Users\Edu\Desktop\Constructores\Constructores\bin\Debug\Constructores.exe.config
+C:\Users\Edu\Desktop\Constructores\Constructores\bin\Debug\Constructores.exe
+C:\Users\Edu\Desktop\Constructores\Constructores\bin\Debug\Constructores.pdb
+C:\Users\Edu\Desktop\Constructores\Constructores\obj\Debug\Constructores.csprojAssemblyReference.cache
+C:\Users\Edu\Desktop\Constructores\Constructores\obj\Debug\Constructores.Form1.resources
+C:\Users\Edu\Desktop\Constructores\Constructores\obj\Debug\Constructores.Properties.Resources.resources
+C:\Users\Edu\Desktop\Constructores\Constructores\obj\Debug\Constructores.csproj.GenerateResource.cache
+C:\Users\Edu\Desktop\Constructores\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Desktop\Constructores\Constructores\obj\Debug\Constructores.exe
+C:\Users\Edu\Desktop\Constructores\Constructores\obj\Debug\Constructores.pdb
+G:\Mi unidad\03 - Desarrollo\PRGs C#\Constructores\Constructores\bin\Debug\Constructores.exe.config
+G:\Mi unidad\03 - Desarrollo\PRGs C#\Constructores\Constructores\bin\Debug\Constructores.exe
+G:\Mi unidad\03 - Desarrollo\PRGs C#\Constructores\Constructores\bin\Debug\Constructores.pdb
+G:\Mi unidad\03 - Desarrollo\PRGs C#\Constructores\Constructores\obj\Debug\Constructores.csproj.AssemblyReference.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\Constructores\Constructores\obj\Debug\Constructores.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\Constructores\Constructores\obj\Debug\Constructores.Form1.resources
+G:\Mi unidad\03 - Desarrollo\PRGs C#\Constructores\Constructores\obj\Debug\Constructores.Properties.Resources.resources
+G:\Mi unidad\03 - Desarrollo\PRGs C#\Constructores\Constructores\obj\Debug\Constructores.csproj.GenerateResource.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\Constructores\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+G:\Mi unidad\03 - Desarrollo\PRGs C#\Constructores\Constructores\obj\Debug\Constructores.exe
+G:\Mi unidad\03 - Desarrollo\PRGs C#\Constructores\Constructores\obj\Debug\Constructores.pdb
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\00 - EJEMPLOS\Ejemplos Base Entorno Grafico\Ejemplo_Constructores\Constructores\bin\Debug\Constructores.exe.config
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\00 - EJEMPLOS\Ejemplos Base Entorno Grafico\Ejemplo_Constructores\Constructores\bin\Debug\Constructores.exe
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\00 - EJEMPLOS\Ejemplos Base Entorno Grafico\Ejemplo_Constructores\Constructores\bin\Debug\Constructores.pdb
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\00 - EJEMPLOS\Ejemplos Base Entorno Grafico\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.csproj.AssemblyReference.cache
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\00 - EJEMPLOS\Ejemplos Base Entorno Grafico\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.csproj.SuggestedBindingRedirects.cache
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\00 - EJEMPLOS\Ejemplos Base Entorno Grafico\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.Form1.resources
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\00 - EJEMPLOS\Ejemplos Base Entorno Grafico\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.Properties.Resources.resources
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\00 - EJEMPLOS\Ejemplos Base Entorno Grafico\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.csproj.GenerateResource.cache
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\00 - EJEMPLOS\Ejemplos Base Entorno Grafico\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\00 - EJEMPLOS\Ejemplos Base Entorno Grafico\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.exe
+G:\Mi unidad\03 - DESARROLLO\PRGs C#\00 - EJEMPLOS\Ejemplos Base Entorno Grafico\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.pdb
+C:\Users\Lenovo\Desktop\Ejemplo_Constructores\Constructores\bin\Debug\Constructores.exe.config
+C:\Users\Lenovo\Desktop\Ejemplo_Constructores\Constructores\bin\Debug\Constructores.exe
+C:\Users\Lenovo\Desktop\Ejemplo_Constructores\Constructores\bin\Debug\Constructores.pdb
+C:\Users\Lenovo\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.Form1.resources
+C:\Users\Lenovo\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.exe
+C:\Users\Lenovo\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.pdb
+C:\Users\matia\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.csproj.AssemblyReference.cache
+C:\Users\matia\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.csproj.SuggestedBindingRedirects.cache
+C:\Users\matia\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.Form1.resources
+C:\Users\matia\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.Properties.Resources.resources
+C:\Users\matia\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.csproj.GenerateResource.cache
+C:\Users\matia\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\matia\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.exe
+C:\Users\matia\Desktop\Ejemplo_Constructores\Constructores\obj\Debug\Constructores.pdb
+C:\Users\matia\Desktop\Ejemplo_Constructores\Constructores\bin\Debug\Constructores.exe.config
+C:\Users\matia\Desktop\Ejemplo_Constructores\Constructores\bin\Debug\Constructores.exe
+C:\Users\matia\Desktop\Ejemplo_Constructores\Constructores\bin\Debug\Constructores.pdb
